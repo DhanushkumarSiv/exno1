@@ -23,6 +23,7 @@ STEP 6: Use zscore of to remove outliers
 # Coding and Output
 
 *NAME :* DHANUSHKUMAR SIVAKUMAR
+
 *REG.NO. :* 212224040067
 
 ![Screenshot 2025-04-18 203531](https://github.com/user-attachments/assets/72a40e19-5b55-45f0-ae6e-b892588a8faa)
